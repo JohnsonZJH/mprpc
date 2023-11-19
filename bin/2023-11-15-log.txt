@@ -1,0 +1,6 @@
+10:13:45 => frist log message!
+10:13:45 => /home/zjh/project/mprpc/example/callee/friendservice.cc:main:48
+10:20:52 => [error]frist log message!
+10:20:52 => [error]/home/zjh/project/mprpc/example/callee/friendservice.cc:main:48
+10:20:52 => [info]service_name: FriendServiceRpc
+10:20:52 => [info]method_name: GetFriendsList
